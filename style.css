@@ -1,0 +1,58 @@
+/* Top Image */
+#nasa {
+  display: flex;
+ background-image: url("space.jpg");
+ height: 450px;
+ width: 850px;
+ background-repeat: no-repeat;
+ justify-content: center;
+ margin: auto;
+}
+
+/* Nasa Text */
+h1 {
+   display: flex;
+   justify-content: center;
+   color: white;
+   font-size: 100px;
+   margin: auto;
+   
+ }
+/* Main Body */
+ main {
+   display: flex;
+   margin: auto;
+   justify-content: center;
+   background-color: #E6E6E6;
+   width: 850px;
+   height: 250px;
+   margin-top: 20px;
+   justify-content: space-around;
+   
+   }
+/* Body Headers */
+  h2 {
+    display: flex;
+    justify-content: flex-start;
+  font-size: 18px;
+  padding-bottom: 5pt;
+  }
+ /* Box-size */
+  #message {
+   height: 50px;
+ }
+ 
+ 
+ 
+ /* Button */
+  #btn {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+
+  }
+   
